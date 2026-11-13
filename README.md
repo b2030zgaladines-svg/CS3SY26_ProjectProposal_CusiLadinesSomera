@@ -2,13 +2,13 @@
 
 
 ## Project Proposal Template:
-### Project Title or Name of the Application	:
+### Project Title or Name of the Application	:  Asteroids Game
 ### Section			   	      : 9-Beryllium
 ### Group Members			    : Carl Gabriel Cusi, Zander Gelo Ladines, Charlie Sean Somera
 ### Date (Proposal Date)  : Nov 13, 2026
-### Project Description: Test
+### Project Description:
 
-- A brief summary of the project description and the need for it.
+- A brief summary of the project description and the need for it. (An Asteroids Game built in python turtle module.)
 
 - Describes system components, features, and expected outputs clearly and logically. NOTE: Clearly described the elements(classes), their attributes and methods and how they will interact with each other.
 
