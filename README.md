@@ -6,7 +6,7 @@
 ### Section			   	      : 9-Beryllium
 ### Group Members			    : Carl Gabriel Cusi, Zander Gelo Ladines, Charlie Sean Somera
 ### Date (Proposal Date)  : Nov 13, 2026
-### Project Description:
+### Project Description: Test
 
 - A brief summary of the project description and the need for it.
 
