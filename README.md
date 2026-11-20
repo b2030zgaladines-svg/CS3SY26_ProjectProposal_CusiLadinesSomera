@@ -14,6 +14,7 @@ The classes and mechanics are structured through a clear set of inheritance and 
 
 Of course, we’re mainly targeting people who want to just have fun, but our secondary audience is other inexperienced coders similar to us and want to see how they can build a functioning game with the knowledge up to OOP.
 
+Sample Diagram:
 <img width="1340" height="800" alt="image" src="https://github.com/user-attachments/assets/bbf889f8-6140-4387-b651-e359bc5c9bdf" />
 
 
